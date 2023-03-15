@@ -43,30 +43,8 @@
       }
     },
     {
-      "name": "Teste Nathan",
-      "document": "510.818.408-54",
-      "bank": {
-        "bankName": "260 - Nu Pagamentos S.A (Nubank)",
-        "code": "260",
-        "agency": "0004",
-        "account": "234535-3"
-      },
-      "id": 4
-    },
-    {
-      "name": "Olá Vc",
-      "document": "510.818.408-54",
-      "bank": {
-        "bankName": "1 - Banco Do Brasil S.A (BB)",
-        "code": "1",
-        "agency": "2222",
-        "account": "3333333333-3"
-      },
-      "id": 5
-    },
-    {
       "name": "Nathan Victorino",
-      "document": "510.818.408-54",
+      "document": "510.000.000-54",
       "bank": {
         "bankName": "1 - Banco Do Brasil S.A (BB)",
         "code": "1",
