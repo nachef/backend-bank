@@ -1,4 +1,7 @@
-# backend-bank
+<p align="center">
+    <h1 align="center">Bank Account Manager Backend JSON</h1>
+  </a>
+</p>
 A simple JSON server with name, bank, document and account number and bank branch information. In addition a list of all existing banks in Brazil. This backend was used in Bank Account Manager.
 
 ## Getting Started
